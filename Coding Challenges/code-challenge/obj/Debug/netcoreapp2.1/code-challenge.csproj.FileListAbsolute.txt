@@ -1,0 +1,16 @@
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.AssemblyReference.cache
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+C:\Users\Dawso\Desktop\Coding Challenges\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
