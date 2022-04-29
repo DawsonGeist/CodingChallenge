@@ -8,7 +8,7 @@ namespace challenge.Models
 {
     public class Compensation
     {
-        //NOTE C(2): Defeat
+        //NOTE C(2): 
         public String CompensationId { get; set; }
 
         public Employee Employee { get; set; }
