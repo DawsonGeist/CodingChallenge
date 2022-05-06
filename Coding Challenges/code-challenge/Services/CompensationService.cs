@@ -42,12 +42,14 @@ namespace challenge.Services
             var employee = _employeeService.GetById(EmployeePay.Employee.EmployeeId);
             if(employee == null)
             {
-                EmployeePay.CompensationId = _employeeService.Create(EmployeePay.Employee).EmployeeId;
+                EmployeePay.Employee = _employeeService.Create(EmployeePay.Employee);
             }
             else
             {
                 EmployeePay.Employee = employee;
             }
+            //Sync the Compensation ID with the employee ID
+            EmployeePay.CompensationId = _employeeService.Create(EmployeePay.Employee).EmployeeId;
 
             //Add to the ?Persistance Layer?
             _compensationRepository.Add(EmployeePay);
